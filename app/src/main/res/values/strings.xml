@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImgurSearch</string>
+    <string name="explore" translatable="false">Imgur Gallery</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="add_comments" translatable="false">Add Comments</string>
+    <string name="title_preference" translatable="false">Theme Selections</string>
+    <string name="dialog_title_preference" translatable="false">Select Theme</string>
+    <string name="cache_summary" translatable="false">Clear all stored values in local database</string>
+    <string name="cache_title" translatable="false">Clear Storage</string>
+    <string name="internet_error" translatable="false">Internet Not Available</string>
+    <string name="main_image">main image</string>
+    <string name="divider">divider</string>
+    <string name="img">img</string>
+</resources>
